@@ -1,7 +1,8 @@
-let str = "123";
-let num = parseInt(str);
-console.log(num);
-
-num = "2345";
-str = parseInt(str);
-console.log(str);
+const insta={
+    name:"sudheer",
+    isFollow:true,
+    followers:569,
+    following:4,
+    bio:"hii frnds",
+}
+console.log(insta);
